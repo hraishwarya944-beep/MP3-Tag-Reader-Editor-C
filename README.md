@@ -1,5 +1,5 @@
 # MP3-Tag-Reader-Editor-C
-# MP3 Tag Reader and Editor
+
 
 A C-based MP3 Tag Reader and Editor that allows users to read and edit song information stored in ID3 tags.
 
